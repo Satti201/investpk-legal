@@ -138,8 +138,8 @@ We may update this Privacy Policy from time to time. We will notify you of signi
 
 For privacy questions, data requests, or complaints:
 
-**Email:** [mansoorsatti2498@gmail.com]  
-**Developer:** [Mansoor Satti]  
+**Email:** mansoorsatti2498@gmail.com  
+**Developer:** Mansoor Satti  
 **Location:** Pakistan
 
 ---
