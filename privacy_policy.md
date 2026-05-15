@@ -9,8 +9,8 @@
 
 InvestPK is an independent portfolio tracking application developed by Mansoor Satti, based in Pakistan. InvestPK is not a broker, investment advisor, bank, or financial institution. We do not offer investment advice, facilitate trades, or handle any financial transactions.
 
-Contact: [mansoorsatti2498@gmail.com]  
-Website / Policy URL: [your-website.com/privacy]
+Contact: mansoorsatti2498@gmail.com  
+Website / Policy URL: https://satti201.github.io/investpk-legal/privacy_policy
 
 ---
 
@@ -100,7 +100,7 @@ You have the right to:
 ### Account Deletion
 To permanently delete your account and all associated data:
 1. Open InvestPK → Profile → Settings → Delete Account
-2. Or email [mansoorsatti2498@gmail.com] with subject "Delete My Account"
+2. Or email mansoorsatti2498@gmail.com with subject "Delete My Account"
 
 We will delete all your data from Firebase within 30 days of your request.
 
