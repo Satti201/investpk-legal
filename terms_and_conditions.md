@@ -38,7 +38,7 @@ You must be at least 18 years of age to use InvestPK. By using the App, you repr
 
 - You are responsible for maintaining the security of your Google account used to sign in
 - You are responsible for all activity that occurs under your account
-- You must notify us immediately at [your-email@gmail.com] if you suspect unauthorised use of your account
+- You must notify us immediately at mansoorsatti2498@gmail.com if you suspect unauthorised use of your account
 - We reserve the right to terminate accounts that violate these Terms
 
 ---
@@ -81,7 +81,7 @@ InvestPK displays only what you enter. We do not connect to any brokerage, bank,
 
 ## 8. Intellectual Property
 
-The InvestPK app, its design, logo, code, and content are owned by [Your Name] and are protected under applicable intellectual property laws. You may not copy, reproduce, modify, or distribute any part of the App without written permission.
+The InvestPK app, its design, logo, code, and content are owned by Mansoor Satti and are protected under applicable intellectual property laws. You may not copy, reproduce, modify, or distribute any part of the App without written permission.
 
 ---
 
@@ -100,7 +100,7 @@ We do not guarantee that the App will always be available. We may suspend, modif
 
 ## 10. Limitation of Liability
 
-To the maximum extent permitted by Pakistani law, [Your Name] and InvestPK shall not be liable for:
+To the maximum extent permitted by Pakistani law, Mansoor Satti and InvestPK shall not be liable for:
 
 - Any investment losses you incur
 - Any decisions made based on information displayed in the App
@@ -139,8 +139,8 @@ We may update these Terms from time to time. Significant changes will be notifie
 
 For questions about these Terms:
 
-**Email:** [your-email@gmail.com]  
-**Developer:** [Your Name]  
+**Email:** mansoorsatti2498@gmail.com  
+**Developer:** Mansoor Satti  
 **Location:** Pakistan
 
 ---
